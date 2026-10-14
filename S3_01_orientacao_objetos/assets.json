@@ -1,0 +1,31 @@
+[
+  {
+    "type": "Server",
+    "id": 1,
+    "name": "File Server",
+    "owner": "João",
+    "linked_ids": [],
+    "operating_system": "Linux"
+  },
+  {
+    "type": "Router",
+    "id": 2,
+    "name": "Core Router",
+    "owner": "Maria",
+    "linked_ids": [
+      1
+    ],
+    "model": "Cisco ISR 4331"
+  },
+  {
+    "type": "Notebook",
+    "id": 3,
+    "name": "NB-Finance-01",
+    "owner": "Ana",
+    "linked_ids": [
+      1,
+      2
+    ],
+    "brand": "Dell"
+  }
+]
