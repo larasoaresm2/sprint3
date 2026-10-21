@@ -9,3 +9,4 @@ Exercises for the Sprint 3 cards. The Assignment 2 application lives in
 | S3_09 | Linear algebra I: matrices and linear transformations | [S3_09_algebra_linear_I](S3_09_algebra_linear_I) | Done | `asset_inventory/risk.py` (b = F·M·v) |
 | S3_10 | Linear algebra II: linear systems (reduced: exercises 4–6) | [S3_10_algebra_linear_II](S3_10_algebra_linear_II) | Done | `asset_inventory/risk.py` (solve (I − A)x = b) |
 | S3_11 | Linear algebra III: determinants and invertibility (reduced) | [S3_11_algebra_linear_III](S3_11_algebra_linear_III) | Done | `Inventory.add_dependency` (row sum of A < 1) |
+| S3_12 | Numerical errors and floating-point representation (reduced) | [S3_12_erros_numericos](S3_12_erros_numericos) | Done | `asset_inventory/risk.py` (cond check, solve instead of inverse) |
